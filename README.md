@@ -73,3 +73,7 @@ A `switch` statement is then used to call the corresponding function based on th
 ### **Conclusion**
 
 In summary, this C++ program demonstrates how to perform basic file operations using structured programming techniques. It highlights the importance of file stream handling, user input management, and modular function design. The use of clear prompts and error checks makes it robust and user-friendly. Though simple, this tool serves as a foundational example for building more advanced applications that involve persistent data storage.
+
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/f7b3632d-4cf9-4371-97e3-31e8f9eba373)
